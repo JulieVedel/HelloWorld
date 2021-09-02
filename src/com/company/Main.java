@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Hello datamatikere!");
         System.out.println("Is this working?!");
+	System.out.println("Any penguins?");
     }
 }
