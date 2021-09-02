@@ -3,10 +3,10 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	    // write your code here
         System.out.println("Hello World!");
         System.out.println("Hello datamatikere!");
         System.out.println("Is this working?!");
-	System.out.println("Any penguins?");
+	    System.out.println("Any penguins?");
     }
 }
